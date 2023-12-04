@@ -21,7 +21,7 @@ keyboard = types.ReplyKeyboardMarkup(
     resize_keyboard=True
 )
 
-bot = Bot(token='6749390940:AAHTUzCsRWFpDfME2bvAZIRJZa5zCK7_rxo')
+bot = Bot(token='')
 dp = Dispatcher()
 
 
